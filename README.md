@@ -19,6 +19,7 @@ Presidency University | 11/2020 – 07/2024
 
 **II PUC (PCMB)**  
 M Krishna PU College | 06/2018 – 04/2020
+
 ---
 
 ## Virtual Internship
@@ -49,7 +50,7 @@ Accenture's Data Analyst Virtual Experience offered hands-on data analysis with 
 - Engineered a robust machine learning model using Python to predict various health conditions.
 - Trained a RandomForestClassifier on a diverse dataset, achieving 90% accuracy.
 - Developed and deployed an intuitive web application using Flask for users to input health parameters and receive instant disease predictions.
-  ![Project Image](url_to_your_image)
+![Project Image](url_to_your_image)
 
 ### 2. Spam Detection System with Streamlit
 - Implemented a Streamlit web application for spam detection using the Naive Bayes algorithm.
