@@ -37,7 +37,8 @@ Accenture's Data Analyst Virtual Experience offered hands-on data analysis with 
 - **Data Science:** Numpy, Pandas, Scikit-learn, Beautiful Soup, Scipy
 - **Data Analysis:** Excel, Tableau, Data Cleaning, Data Modeling
 - **Data Visualization:** Matplotlib, Seaborn
-- **Machine Learning:** RandomForestClassifier, Naive Bayes, Deep Learning (Basic)
+- **Machine Learning:**
+- **Deep Learning (Basic)**
 - **Database:** SQL
 - **Web Development:** Flask, Streamlit
 - **Other Tools:** Google Cloud Platform (Basic), MS Office
